@@ -1,0 +1,1101 @@
+.contact-text{
+  padding: 60px 0 60px 0;
+}
+
+#left-header-contact{
+  float: left;
+  padding: 135px 0;
+}
+
+.h1-contact {
+  font-size: 72px;
+  font-weight: 700;
+  padding-top: 100px;
+}
+
+.img-right-header-contact {
+  height: auto;
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+
+#full-contact{
+  width: 100%;
+  display: flex;
+}
+
+#left-about{
+  font-size: 18px;
+}
+
+
+.button-validation-form{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+#exampleInputUsername{
+  height: 60px;
+  width: 309px;
+  background-color: #EFF2F6;
+  border-radius: 8px;
+  font-size: 20px;
+  color: black !important;
+  box-shadow: none !important;
+  border-color: #fff !important;
+}
+
+#exampleInputEmail3{
+  height: 60px;
+  width: 309px;
+  background-color: #EFF2F6;
+  border-radius: 8px;
+  font-size: 20px;
+  color: black !important;
+  box-shadow: none !important;
+  border-color: #fff !important;
+  margin-left: 15px;
+}
+
+#messageInput{
+  width: 634px;
+  height: 140px;
+  margin-top: 15px;
+  border-radius: 8px;
+  background-color: #EFF2F6;
+  font-size: 20px;
+  color: black !important;
+  box-shadow: none !important;
+  border: none !important;
+  padding: .375rem .75rem;
+}
+
+
+#right-header-contact {
+  float: right;
+  padding: 50px 0;
+}
+
+
+.button-form{
+  padding-top: 10px;
+}
+
+.btn-contact-send{
+  font-size: 20px;
+  font-weight: 600;
+  width: 309px;
+  height: 60px;
+  border-radius: 8px;
+  background-color: #345DEE;
+  color: #fff;
+}
+
+
+#right-about{
+  flex: 0 0 auto;
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  flex-wrap: nowrap;
+  padding-top: 50px;
+}
+
+
+
+.silver-text{
+  font-size: 14px;
+}
+
+.silver-text-2{
+  font-size: 14px;
+}
+
+.silver-text-3{
+  font-size: 14px;
+}
+
+.black-text{
+  font-size: 20px;
+  font-weight: 600;}
+
+.black-text-2{
+  font-size: 20px;
+  font-weight: 600;}
+
+.black-text-3{
+  font-size: 20px;
+  font-weight: 600;
+}
+
+
+
+.footer {
+  margin: 90px 0 45px 0;
+}
+
+#full-footer {
+  position: relative;
+  display: flex;
+  color: #696969;
+}
+
+.footer-heading {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.par-bold {
+  font-size: 19px;
+  font-weight: 600;
+}
+
+.footer p{
+  font-size: 18px;
+}
+
+
+.full-footer {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+
+
+.footer-hr {
+  margin: 45px 0 45px 0;
+  color: #DFE4EA;
+  height: 2px;
+}
+
+.newsletter1 {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.form-control2 {
+  height: 50px;
+  width: 255px;
+  border-radius: 8px;
+  border: none !important;
+  background-color: #EFF2F6;
+  padding: 15px;
+}
+
+.btn-primary-2 {
+  height: 50px;
+  width: 175px;
+  background-color: #345DEE;
+  color: #fff;
+  border-radius: 8px;
+  margin-left: 15px;
+  box-shadow: none !important;
+  position: relative;
+  top: -3px;
+}
+
+.footer-icons {
+  position: relative;
+  display: initial;
+
+}
+
+.icon1-footer {
+  float: right;
+  height: 50px;
+  width: 50px;
+  background-color: #EFF2F6;
+  border-radius: 50%;
+  margin: 0 10px;
+}
+
+.icon2-footer {
+  float: right;
+  height: 50px;
+  width: 50px;
+  background-color: #EFF2F6;
+  border-radius: 50%;
+  margin: 0 10px;
+}
+
+
+.icon1-footer img {
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  left: 18px;
+  top: 10px;
+}
+
+.icon2-footer img {
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  left: 18px;
+  top: 10px;
+}
+
+.link-other-sites {
+  font-size: 18px;
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.link-about{
+  padding-bottom: 1rem;
+}
+
+.link-contact{
+  padding-bottom: 1rem;
+}
+
+.link-term{
+  padding-bottom: 1rem;
+}
+
+@media (min-width: 991px) {
+  .h1-contact {
+    font-size: 72px;
+    font-weight: 700;
+    padding-top: 0;
+  }
+
+  #left-header-contact {
+    float: left;
+    padding: 190px 0;
+    width: 40%;
+  }
+
+  .img-right-header-contact{
+    padding: 0;
+    float: right;
+  }
+
+  #right-contact{
+    margin: 33px 20px 0 25px;
+  }
+
+  #right-header-contact{
+    padding: 0;
+    float: right;
+  }
+
+  .img-right-header-contact img {
+    width: 100%;
+  }
+
+  #full-contact{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+
+  #left-contact{
+    width: 50%;
+    float: left;
+  }
+
+  #exampleInputUsername{
+    width: 100%;
+  }
+
+
+  #exampleInputEmail3{
+    height: 60px;
+    width: 100%;
+    background-color: #EFF2F6;
+    border-radius: 8px;
+    font-size: 20px;
+    color: black !important;
+    box-shadow: none !important;
+    border-color: #fff !important;
+    margin-left: 0  !important;
+    margin-top: 15px;
+  }
+
+  #messageInput {
+    width: 100%;
+    height: 140px;
+    margin-top: 15px;
+    border-radius: 8px;
+    background-color: #EFF2F6;
+    font-size: 20px;
+    color: black !important;
+    box-shadow: none !important;
+    border: none !important;
+    padding: 0.375rem 0.75rem;
+  }
+
+  .btn-contact-send {
+    font-size: 20px;
+    font-weight: 600;
+    width: 100%;
+    height: 60px;
+    border-radius: 8px;
+    background-color: #345DEE;
+    color: #fff;
+  }
+
+  .button-validation-form{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+  }
+
+
+  .right-text{
+    padding-top: 30px;
+    width: 100%;
+    padding-left: 40%;
+
+  }
+
+
+  .contact-text {
+    padding: 40px 0 40px 0;
+  }
+
+  .footer {
+    margin: 25px 0;
+  }
+
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .h1-contact {
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 0;
+  }
+
+  #left-header-contact {
+    float: left;
+    padding: 190px 0;
+    width: 40%;
+  }
+
+  .img-right-header-contact{
+    padding: 0;
+    float: right;
+  }
+
+  #right-contact{
+    margin: 33px 20px 0 25px;
+  }
+
+  #right-header-contact{
+    padding: 0;
+    float: right;
+  }
+
+  .img-right-header-contact img {
+    width: 100%;
+  }
+
+  #full-contact{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+
+  #left-contact{
+    width: 50%;
+    float: left;
+  }
+
+  #exampleInputUsername{
+    width: 100%;
+  }
+
+
+  #exampleInputEmail3{
+    height: 60px;
+    width: 100%;
+    background-color: #EFF2F6;
+    border-radius: 8px;
+    font-size: 20px;
+    color: black !important;
+    box-shadow: none !important;
+    border-color: #fff !important;
+    margin-left: 0  !important;
+    margin-top: 15px;
+  }
+
+  #messageInput {
+    width: 100%;
+    height: 140px;
+    margin-top: 15px;
+    border-radius: 8px;
+    background-color: #EFF2F6;
+    font-size: 20px;
+    color: black !important;
+    box-shadow: none !important;
+    border: none !important;
+    padding: 0.375rem 0.75rem;
+  }
+
+  .btn-contact-send {
+    font-size: 20px;
+    font-weight: 600;
+    width: 100%;
+    height: 60px;
+    border-radius: 8px;
+    background-color: #345DEE;
+    color: #fff;
+  }
+
+  .button-validation-form{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+  }
+
+
+  .right-text{
+    padding-top: 20px;
+    width: 100%;
+  }
+
+
+  .contact-text {
+    padding: 40px 0 40px 0;
+  }
+
+  .footer {
+    margin: 25px 0;
+  }
+
+  #full-footer {
+    position: relative;
+    display: flex;
+    color: #696969;
+    flex-direction: row;
+  }
+
+  #email-newsletter {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .btn-primary-2 {
+    margin-top: 15px;
+  }
+
+  .footer-icons {
+    margin-top: 15px;
+  }
+
+  .footer-heading {
+    font-size: 20px;
+    font-weight: 700;
+  }
+
+  .par-bold {
+    font-size: 19px;
+    font-weight: 600;
+  }
+
+  .footer p {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 767px){
+  .h1-contact {
+    font-size: 50px;
+    font-weight: 700;
+    padding-top: 0;
+  }
+
+  #left-header-contact {
+    float: left;
+    padding: 50px 0;
+  }
+
+  .img-right-header-contact{
+    padding: 0;
+    float: right;
+  }
+
+  #right-header-contact{
+    padding: 0;
+    float: right;
+  }
+
+  .img-right-header-contact img {
+    width: 100%;
+  }
+
+  #full-contact{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+
+  #left-contact{
+    width: 100%;
+  }
+
+  #exampleInputUsername{
+    width: 100%;
+  }
+
+
+  #exampleInputEmail3{
+    height: 60px;
+    width: 100%;
+    background-color: #EFF2F6;
+    border-radius: 8px;
+    font-size: 20px;
+    color: black !important;
+    box-shadow: none !important;
+    border-color: #fff !important;
+    margin-left: 0  !important;
+    margin-top: 15px;
+  }
+
+  #messageInput {
+    width: 100%;
+    height: 140px;
+    margin-top: 15px;
+    border-radius: 8px;
+    background-color: #EFF2F6;
+    font-size: 20px;
+    color: black !important;
+    box-shadow: none !important;
+    border: none !important;
+    padding: 0.375rem 0.75rem;
+  }
+
+  .btn-contact-send {
+    font-size: 20px;
+    font-weight: 600;
+    width: 100%;
+    height: 40px;
+    border-radius: 8px;
+    background-color: #345DEE;
+    color: #fff;
+  }
+
+  .button-validation-form{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+  }
+
+
+  .right-text{
+    padding-top: 20px;
+    width: 100%;
+  }
+
+
+  .contact-text {
+    padding: 40px 0 5px 0;
+  }
+
+  .footer {
+    margin: 25px 0;
+  }
+
+  #full-footer {
+    position: relative;
+    display: flex;
+    color: #696969;
+    flex-direction: column;
+  }
+
+  #email-newsletter {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .btn-primary-2 {
+    margin-top: 15px;
+  }
+
+  .footer-icons {
+    margin-top: 15px;
+  }
+
+  .footer-heading {
+    font-size: 20px;
+    font-weight: 700;
+  }
+
+  .par-bold {
+    font-size: 19px;
+    font-weight: 600;
+  }
+
+  .footer p {
+    font-size: 18px;
+  }
+}
+
+
+@media (max-width: 575px) {
+  .h1-contact {
+    font-size: 50px;
+    font-weight: 700;
+    padding-top: 0;
+  }
+
+  #left-header-contact {
+    float: left;
+    padding: 50px 0;
+  }
+
+  .img-right-header-contact{
+    padding: 0;
+    float: right;
+  }
+
+  #right-header-contact{
+    padding: 0;
+    float: right;
+  }
+
+  .img-right-header-contact img {
+    width: 100%;
+  }
+
+  #full-contact{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+
+  #left-contact{
+    width: 100%;
+  }
+
+  #exampleInputUsername{
+    width: 100%;
+  }
+
+
+  #exampleInputEmail3{
+    height: 60px;
+    width: 100%;
+    background-color: #EFF2F6;
+    border-radius: 8px;
+    font-size: 20px;
+    color: black !important;
+    box-shadow: none !important;
+    border-color: #fff !important;
+    margin-left: 0  !important;
+    margin-top: 15px;
+  }
+
+  #messageInput {
+    width: 100%;
+    height: 140px;
+    margin-top: 15px;
+    border-radius: 8px;
+    background-color: #EFF2F6;
+    font-size: 20px;
+    color: black !important;
+    box-shadow: none !important;
+    border: none !important;
+    padding: 0.375rem 0.75rem;
+  }
+
+  .btn-contact-send {
+    font-size: 20px;
+    font-weight: 600;
+    width: 100%;
+    height: 40px;
+    border-radius: 8px;
+    background-color: #345DEE;
+    color: #fff;
+  }
+
+  .button-validation-form{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+  }
+
+
+  .right-text{
+    padding-top: 20px;
+    width: 100%;
+  }
+
+
+  .contact-text {
+    padding: 40px 0 5px 0;
+  }
+
+  .footer {
+    margin: 25px 0;
+  }
+
+  #full-footer {
+    position: relative;
+    display: flex;
+    color: #696969;
+    flex-direction: column;
+  }
+
+  #email-newsletter {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .btn-primary-2 {
+    margin-top: 15px;
+  }
+
+  .footer-icons {
+    margin-top: 15px;
+  }
+
+  .footer-heading {
+    font-size: 20px;
+    font-weight: 700;
+  }
+
+  .par-bold {
+    font-size: 19px;
+    font-weight: 600;
+  }
+
+  .footer p {
+    font-size: 18px;
+  }
+}
+
+
+@media (min-width: 320px) and (max-width: 391px) {
+  .h1-contact {
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 0;
+  }
+
+  #left-header-contact {
+    float: left;
+    padding: 50px 0;
+  }
+
+  .img-right-header-contact{
+    padding: 0;
+    float: right;
+  }
+
+  #right-header-contact{
+    padding: 0;
+    float: right;
+  }
+
+  .img-right-header-contact img {
+    width: 100%;
+  }
+
+  #full-contact{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+
+  #left-contact{
+    width: 100%;
+  }
+
+  #exampleInputUsername{
+    width: 100%;
+  }
+
+
+  #exampleInputEmail3{
+    height: 60px;
+    width: 100%;
+    background-color: #EFF2F6;
+    border-radius: 8px;
+    font-size: 20px;
+    color: black !important;
+    box-shadow: none !important;
+    border-color: #fff !important;
+    margin-left: 0  !important;
+    margin-top: 15px;
+  }
+
+  #messageInput {
+    width: 100%;
+    height: 140px;
+    margin-top: 15px;
+    border-radius: 8px;
+    background-color: #EFF2F6;
+    font-size: 20px;
+    color: black !important;
+    box-shadow: none !important;
+    border: none !important;
+    padding: 0.375rem 0.75rem;
+  }
+
+  .btn-contact-send {
+    font-size: 20px;
+    font-weight: 600;
+    width: 100%;
+    height: 40px;
+    border-radius: 8px;
+    background-color: #345DEE;
+    color: #fff;
+  }
+
+  .button-validation-form{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+  }
+
+
+  .right-text{
+    padding-top: 20px;
+    width: 100%;
+  }
+
+
+  .contact-text {
+    padding: 40px 0 5px 0;
+  }
+
+  .footer {
+    margin: 25px 0;
+  }
+
+  #full-footer {
+    position: relative;
+    display: flex;
+    color: #696969;
+    flex-direction: column;
+  }
+
+  #email-newsletter {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .btn-primary-2 {
+    margin-top: 15px;
+  }
+
+  .footer-icons {
+    margin-top: 15px;
+  }
+
+  .footer-heading {
+    font-size: 20px;
+    font-weight: 700;
+  }
+
+  .par-bold {
+    font-size: 19px;
+    font-weight: 600;
+  }
+
+  .footer p {
+    font-size: 18px;
+  }
+}
+
+
+
+
+@media (max-width: 320px) {
+  .h1-contact {
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 0;
+  }
+
+  #left-header-contact {
+    float: left;
+    padding: 50px 0;
+  }
+
+  .img-right-header-contact{
+    padding: 0;
+    float: right;
+  }
+
+  #right-header-contact{
+    padding: 0;
+    float: right;
+  }
+
+  .img-right-header-contact img {
+    width: 100%;
+  }
+
+  #full-contact{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+
+  #left-contact{
+    width: 100%;
+  }
+
+  #exampleInputUsername{
+  width: 100%;
+   }
+
+
+  #exampleInputEmail3{
+    height: 60px;
+    width: 100%;
+    background-color: #EFF2F6;
+    border-radius: 8px;
+    font-size: 20px;
+    color: black !important;
+    box-shadow: none !important;
+    border-color: #fff !important;
+    margin-left: 0  !important;
+    margin-top: 15px;
+  }
+
+  #messageInput {
+    width: 100%;
+    height: 140px;
+    margin-top: 15px;
+    border-radius: 8px;
+    background-color: #EFF2F6;
+    font-size: 20px;
+    color: black !important;
+    box-shadow: none !important;
+    border: none !important;
+    padding: 0.375rem 0.75rem;
+  }
+
+  .btn-contact-send {
+    font-size: 20px;
+    font-weight: 600;
+    width: 100%;
+    height: 40px;
+    border-radius: 8px;
+    background-color: #345DEE;
+    color: #fff;
+  }
+
+  .button-validation-form{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+  }
+
+
+  .right-text{
+    padding-top: 20px;
+    width: 100%;
+  }
+
+
+  .contact-text {
+    padding: 40px 0 5px 0;
+  }
+
+  .footer {
+    margin: 25px 0;
+  }
+
+  #full-footer {
+    position: relative;
+    display: flex;
+    color: #696969;
+    flex-direction: column;
+  }
+
+  #email-newsletter {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .btn-primary-2 {
+    margin-top: 15px;
+  }
+
+  .footer-icons {
+    margin-top: 15px;
+  }
+
+  .footer-heading {
+    font-size: 20px;
+    font-weight: 700;
+  }
+
+  .par-bold {
+    font-size: 19px;
+    font-weight: 600;
+  }
+
+  .footer p {
+    font-size: 18px;
+  }
+}
